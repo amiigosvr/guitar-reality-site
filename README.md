@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/guitar-reality-logo.png" alt="Guitar Reality" width="720">
+  <img src="assets/app-icon.png" alt="Guitar Reality" width="180">
 </p>
 
 <p align="center">
