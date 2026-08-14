@@ -1,6 +1,13 @@
-# Guitar Reality
+<p align="center">
+  <img src="assets/guitar-reality-logo.png" alt="Guitar Reality" width="720">
+</p>
 
-**Step into the lights. Become the headliner.**
+<p align="center">
+  <strong>Step into the lights. Become the headliner.</strong><br>
+  <a href="https://amiigosvr.github.io/guitar-reality-site/">Visit the Guitar Reality website</a>
+</p>
+
+---
 
 Guitar Reality is a made-for-VR five-fret rhythm game where every note drives
 the show. Nail riffs, build massive streaks, earn fans, unlock achievements,
@@ -36,7 +43,7 @@ Need help with Guitar Reality? Contact AmiigosVR at
 
 ## Privacy
 
-Read the [Guitar Reality Privacy Policy](privacy/index.html) to learn what
+Read the [Guitar Reality Privacy Policy](https://amiigosvr.github.io/guitar-reality-site/privacy/) to learn what
 information the app stores, how that information is used, and how it can be
 deleted.
 
