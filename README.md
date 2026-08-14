@@ -1,20 +1,47 @@
-# Guitar Reality website
+# Guitar Reality
 
-This folder is a dependency-free website ready for GitHub Pages.
+**Step into the lights. Become the headliner.**
 
-## Publish
+Guitar Reality is a made-for-VR five-fret rhythm game where every note drives
+the show. Nail riffs, build massive streaks, earn fans, unlock achievements,
+and rise from neighborhood bars to spectacular festival stages.
 
-1. Create a new **public** GitHub repository, such as `guitar-reality-site`.
-2. Upload the contents of this folder to the repository root. `index.html` must
-   be at the root, with the `privacy` folder and `styles.css` beside it.
-3. In the repository, open **Settings > Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/(root)`, then save.
-6. When GitHub shows the live URL, test both the home page and `/privacy/` in a
-   private browser window.
+## Bring your own songs
 
-Use the home-page URL for Meta's **App Website** field and the `/privacy/` URL
-for Meta's **Privacy Policy** field.
+Rock the included original soundtrack or bring your own locally stored music.
+Guitar Reality supports common Clone Hero and YARG song formats, including:
 
-Do not add the Meta App Secret, Android keystore, passwords, or any other secret
-to this public repository.
+- Folders containing `notes.chart` or `notes.mid`
+- Packed `.sng` songs
+- `.ogg`, `.opus`, and `.wav` audio
+
+Players are responsible for using music they own or are authorized to use.
+
+## Play your way
+
+- **PDP RIFFMASTER** in supported PS5 or PS4 mode*
+- **Meta Quest Touch controllers** with classic or motion-strum controls
+- **PS5, Xbox, and generic gamepads**
+- **Physical keyboards**
+
+A guitar controller is optional. Guided tutorials make every supported control
+style easy to learn.
+
+\*RIFFMASTER support requires a compatible USB to USB-C OTG adapter or dongle.
+
+## Support
+
+Need help with Guitar Reality? Contact AmiigosVR at
+[amiigosvr@gmail.com](mailto:amiigosvr@gmail.com).
+
+## Privacy
+
+Read the [Guitar Reality Privacy Policy](privacy/index.html) to learn what
+information the app stores, how that information is used, and how it can be
+deleted.
+
+---
+
+**Tune up. Take the stage. Make the crowd remember your name.**
+
+Copyright &copy; 2026 AmiigosVR. All rights reserved.
