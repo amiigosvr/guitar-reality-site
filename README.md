@@ -47,6 +47,9 @@ Read the [Guitar Reality Privacy Policy](https://amiigosvr.github.io/guitar-real
 information the app stores, how that information is used, and how it can be
 deleted.
 
+Playing on a phone or tablet? Read the
+[Guitar Reality Mobile Privacy Policy](https://amiigosvr.github.io/guitar-reality-site/privacy/mobile/).
+
 ---
 
 **Tune up. Take the stage. Make the crowd remember your name.**
